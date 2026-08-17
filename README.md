@@ -12,6 +12,4 @@ Retrieves a user by their ID.
 
 ```http
 GET /users/{id}
-
-POST /users/{id}
 ```
